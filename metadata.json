@@ -1,0 +1,5 @@
+{
+  "name": "News Command Center",
+  "description": "A mission-control style dashboard for monitoring multiple news APIs simultaneously.",
+  "requestFramePermissions": []
+}
